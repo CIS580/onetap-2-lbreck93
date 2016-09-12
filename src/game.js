@@ -3,7 +3,7 @@
 /**
  * @module exports the Game class
  */
-module.exports = exports = Game;
+module.exports = Game;
 
 /**
  * @constructor Game
